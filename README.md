@@ -4,6 +4,8 @@
   1. \dt  
   2. \dt+  (shows extra info about the tables eg. table size)
 
+### LIST% ALL CREATED VIEWS
+  1. \dv
 
 ### CREATE A View
   ``
