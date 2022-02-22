@@ -2,7 +2,7 @@
 
 ### LIST ALL TABLES:
   1. \dt  
-  2. \dt+ -- shows extra info about the tables eg. table size
+  2. \dt+  (shows extra info about the tables eg. table size)
 
 
 ### CREATE A View
